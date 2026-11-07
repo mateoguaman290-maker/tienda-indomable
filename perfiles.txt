@@ -3,4 +3,3 @@ admin|ep|ep
 admin|accesibilidadtecnológica|accesibilidad tecnológica
 admin|accesibilidad plus|Accesibilidad digital
 admin|fenix|fenix
-admin|catriel|catriel
