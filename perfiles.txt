@@ -4,3 +4,4 @@ admin|aplicaciones company|aplicaciones company
 admin|accesibilidadtecnológica|accesibilidad tecnológica
 admin|yonatan|yonatan
 admin|accesibilidad plus|Accesibilidad digital
+admin|y|h
