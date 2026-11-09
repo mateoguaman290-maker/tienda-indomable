@@ -4,3 +4,4 @@ admin|accesibilidad plus|Accesibilidad digital
 admin|screen & sound lab|catriel
 admin|fenix|fenix
 admin|smarttechnology|smarttechnology
+admin|elcoleccionador|elcoleccionador
